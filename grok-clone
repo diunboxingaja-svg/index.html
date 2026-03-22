@@ -21,7 +21,7 @@
     </div>
 
     <script>
-        const API_KEY = "MASUKKAN_API_KEY_GROQ_ANDA_DI_SINI";
+        const API_KEY = "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";
 
         async function sendMessage() {
             const input = document.getElementById('userInput');
